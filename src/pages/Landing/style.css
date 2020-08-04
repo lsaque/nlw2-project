@@ -85,6 +85,11 @@
     background: var(--color-secundary-dark);
 }
 
+.informations-container{
+    text-align: center;
+    opacity: 0;
+}
+
 .total-connections {
     font-size: 1.4rem;
 
@@ -103,10 +108,10 @@
 
         display: grid;
         grid-template-rows: 350px 1fr;
-        grid-template-columns: 2fr 1fr 1fr;
+        grid-template-columns: repeat(4, 1fr);
         grid-template-areas: 
-            "logo hero hero"
-            "buttons buttons total"
+            "logo logo hero hero"
+            "information total buttons buttons"
         ;
     }
 
@@ -133,7 +138,7 @@
 
     .buttons-container{
         grid-area: buttons;
-        justify-content: flex-start;
+        justify-content: flex-end;
     }
 
     .buttons-container a {
@@ -142,5 +147,28 @@
 
     .total-connections{
         grid-area: total;
+        justify-self: end;
+        max-width: 90%;
+        text-align: right;
     }
+
+    .total-connections img{
+        margin-right: 4rem;
+    }
+
+    .informations-container{
+        grid-area: information;
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        text-align: left;
+        opacity: 1;
+    }
+
+    .informations-container .welcome {
+        font: 500 1.7rem Poppins;
+        color: white;
+        /* color: var(--color-text-base); */
+    }
+
 }
