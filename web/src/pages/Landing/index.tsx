@@ -16,7 +16,6 @@ function Landing() {
 
   const [totalConnections, setTotalConnections] = useState(0);
 
-
   useEffect(() => {
     api.get('/connections').then(response => {
       const {total} = response.data;
@@ -24,9 +23,6 @@ function Landing() {
       setTotalConnections(total);
     })
   }, []);
-
-
-
 
   return (
     <div id="page-landing">
