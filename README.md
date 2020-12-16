@@ -1,6 +1,6 @@
 # Proffy - NLW2
 
-![Image of Proffy logo](https://raw.githubusercontent.com/lsaque/README/master/.github/Proffy-logo.png?token=AQFR7AGSQSIWBNHPVEZBI6C7HRWKS)
+![Image of Proffy logo](https://raw.githubusercontent.com/lsaque/README/master/.github/Proffy-logo.png?token=AQFR7ACXHRLPFVAV63NXBXK74NNRU)
 
 ## ❔ About the project
 
@@ -12,13 +12,13 @@ The project was build in [Next Level Week 2](https://nextlevelweek.com/episodios
 ## 📸 Video
 
 #### Landing page.
-![Registering a teacher](https://raw.githubusercontent.com/lsaque/README/master/.github/website.png?token=AQFR7AHYWQL2IC557ZPRY6C7HRXNC)
+![Registering a teacher](https://raw.githubusercontent.com/lsaque/README/master/.github/website.png?token=AQFR7AF32BUXUMYZEOEOPYK74NNR6)
 
 #### Teacher registration page.
-![Registering a teacher](https://raw.githubusercontent.com/lsaque/README/master/.github/Proffy-gif-1.gif?token=AQFR7ACYSPIMAYODWMU6JZ27HRW32)
+![Registering a teacher](https://raw.githubusercontent.com/lsaque/README/master/.github/Proffy-gif-1.gif?token=AQFR7AFHICU2G6NQN2IIASC74NNRC)
 
 #### Viewing page for registered teachers.
-![Searching for a teacher](https://raw.githubusercontent.com/lsaque/README/master/.github/Proffy-gif-2.gif?token=AQFR7AEI4N5KKPHOGPIC4DC7HRW6U)
+![Searching for a teacher](https://raw.githubusercontent.com/lsaque/README/master/.github/Proffy-gif-2.gif?token=AQFR7AA2CEDDOIMWJJPIZO274NNRK)
 
 ## 🛠 Technologies
 
